@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:400,700|Nunito:400,700&display=swap");
+
+/* Line Awesome */
+@import "../../../node_modules/line-awesome/dist/line-awesome/css/line-awesome.css";
+
+/* Tippy.js */
+@import "../../../node_modules/tippy.js/dist/tippy.css";
+@import "../../../node_modules/tippy.js/themes/light-border.css";
+@import "../../../node_modules/tippy.js/animations/scale.css";
+@import "../../../node_modules/tippy.js/animations/shift-away.css";
+@import "../../../node_modules/tippy.js/animations/shift-toward-extreme.css";
+@import "../../../node_modules/tippy.js/animations/perspective.css";
+
+/* Animate.css */
+@import "../../../node_modules/animate.css/animate.css";
+
+/* Glide.js */
+@import "../../../node_modules/@glidejs/glide/dist/css/glide.core.css";
+
+/* Main */
+@import "../../../node_modules/tailwindcss/base.css";
+@import "base.css";
+@import "../../../node_modules/tailwindcss/components.css";
+@import "components.css";
+@import "../../../node_modules/tailwindcss/utilities.css";
+@import "utilities.css";
