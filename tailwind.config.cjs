@@ -5,6 +5,7 @@ module.exports = {
 	purge: [
 			"./src/**/*.svelte}",
 		],
+
 	darkMode: "class",
 	theme: {
 		container: {
